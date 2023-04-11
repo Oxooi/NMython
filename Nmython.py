@@ -61,7 +61,7 @@ def help():
     print("-3 Downloads: Download the necessary tools for this script (Nmap, Fping)")
     print("-4 STCP: Run a TCP Scan")
     print("-5 SUDP: Run a UDP Scan")
-    print("-6 FullScan: Run a Full Scan to see every details on the server (OS, Service & Version info, Default Script")
+    print("-6 FullScan: Run a Full Scan to see every details on the server (OS, Service & Version info, Default Script)")
     print("-7 AlsoFullScan: Run a simplified complete analysis")
     backToMain()
 
